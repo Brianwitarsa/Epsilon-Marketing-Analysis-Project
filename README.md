@@ -5,10 +5,10 @@ Given data for Company XYZ, I performed an ANOVA test and Regression Analysis to
 A final presentation was delivered, ranking each campaign and prividing recommendations.
 
 Summary:
-ANOVA Test
-Tukey's HSD Test
-Regression Analysis
-Presentation
+- ANOVA Test
+- Tukey's HSD Test
+- Regression Analysis
+- Presentation
 
 - [Data](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project/blob/main/Sample%20Data%20Company%20XYZ%20-%20Updated%202021_08_18.csv)
 - [Code](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project/blob/main/Epsilon.ipynb)
