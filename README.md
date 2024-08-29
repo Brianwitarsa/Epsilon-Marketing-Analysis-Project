@@ -10,15 +10,12 @@ Tukey's HSD Test
 Regression Analysis
 Presentation
 
-[Data](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project/blob/main/Sample%20Data%20Company%20XYZ%20-%20Updated%202021_08_18.csv)
-[Code](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project/blob/main/Epsilon.ipynb)
-[Presentation](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project/blob/main/Brian_Witarsa_Epsilon_Presentation.pdf)
+- [Data](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project/blob/main/Sample%20Data%20Company%20XYZ%20-%20Updated%202021_08_18.csv)
+- [Code](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project/blob/main/Epsilon.ipynb)
+- [Presentation](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project/blob/main/Brian_Witarsa_Epsilon_Presentation.pdf)
 
-Overview of Steps:
-1. Import Data
-2. Date Cleaning
-3. Establishing KPIs
-4. Data Analysis
+<h1>Brief Look at Final Deliverable</h1>
+<h2>Data Analysis</h2>
   <img width="1021" alt="Screenshot 2024-08-29 at 11 10 35 PM" src="https://github.com/user-attachments/assets/5eb3f995-20aa-40ed-80f0-bc2338c28a8d">
 <h3>ANOVA Test</h3>
   <img width="1021" alt="Screenshot 2024-08-29 at 11 11 14 PM" src="https://github.com/user-attachments/assets/670ca5eb-a201-423b-b05d-377aa21c6852">
@@ -30,6 +27,7 @@ Overview of Steps:
 <h3>Regression Analysis</h3>
   <img width="1023" alt="Screenshot 2024-08-29 at 11 14 31 PM" src="https://github.com/user-attachments/assets/b4929494-9c11-41e7-88c4-5d77bd1a1d08">
   <img width="1021" alt="Screenshot 2024-08-29 at 11 15 21 PM" src="https://github.com/user-attachments/assets/fb08781b-de68-4118-a62b-31f9574e7536">
+<h2>Suggestions</h2>
 <h3>Final Suggestions</h3>
   <img width="1023" alt="Screenshot 2024-08-29 at 11 15 48 PM" src="https://github.com/user-attachments/assets/de346c0d-3486-4204-9f6e-1ac6b8ea012d">
   <img width="1018" alt="Screenshot 2024-08-29 at 11 16 12 PM" src="https://github.com/user-attachments/assets/9ba9d14d-d9a6-4bc9-bc30-6265b72c253f">
@@ -37,12 +35,9 @@ Overview of Steps:
 
 
 
-
-
-6. Interpret Results
   
 
-8. Suggestions
+
 
 
 
